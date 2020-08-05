@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+  }
+  header {
+    background-color: rgb(58, 58, 58);
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  header ul {
+    float: right;
+    color: white;
+  }
+  header li {
+    display: inline-block;
+    padding: 0px 5px;
+  }
+  header p {
+    display: inline-block;
+  }
+
+  .container{
+    padding-top: 50px;
+  }
+
+
+/*-----HEADING ENDS AND CONTENT STARTS --------------------------------------------------------------------------------------*/
+
+.row{
+    padding-left: 10px;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(58, 58, 58);
+}
+
+.row H1{
+    font-size: 20pt;
+}
+
+.row li{
+    font-size: 11pt;
+    font-weight: bold;
+
+}
+
+ .image-container{
+     display: block;
+    text-align: center;
+    transform: scale(0.75);
+ } 
+
+ /*-----CARDS  --------------------------------------------------------------------------------------*/
+
+
+
+ .card{
+     font-family: Arial, Helvetica, sans-serif;
+     color: rgb(58, 58, 58);
+     font-weight: bold;
+     font-size: 11pt;
+     transform: scale(0.85);
+ }
+
+ .card-deck{
+   margin-left: 50px;
+   margin-right: 50px;
+ }
+
+ .card-title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: bold;
+    font-size: 20px;
+ }
+
+ 
+ /*-----CARD ENDS  --------------------------------------------------------------------------------------*/
+
+
+
+
+
+ 
+ /*FOOTER ---------------------------------------------------------------------------------------------------------------*/
+
+ footer {
+  background-color: rgb(58, 58, 58);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+footer ul {
+  list-style: none;
+  padding-left: 5px;
+}
+footer li {
+  display: inline-block;
+  padding: 0px 7px;
+ 
+}
